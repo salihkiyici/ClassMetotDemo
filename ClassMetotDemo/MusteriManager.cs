@@ -12,7 +12,7 @@ namespace ClassMetotDemo
         }
         public void Sil(Musteri musteri)
         {
-            Console.WriteLine(musteri.MusteriAdi + " " + "isimli kullanıcı sistemden başarıyla silindi.");
+            Console.WriteLine(musteri.MusteriAdi +" "+ "isimli kullanıcı sistemden başarıyla silindi.");
         }
     }
 }
